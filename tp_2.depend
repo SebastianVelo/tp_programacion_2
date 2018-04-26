@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1524702790 source:c:\users\sebas\desktop\c\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"person.h"
+
+1524702754 c:\users\sebas\desktop\c\tp_2\person.h
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"styles.h"
+
+1524693814 c:\users\sebas\desktop\c\tp_2\util.h
+	<stdio.h>
+	<stdlib.h>
+
+1524690818 c:\users\sebas\desktop\c\tp_2\styles.h
+	<stdio.h>
+	<stdlib.h>
+
